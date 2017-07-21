@@ -1,0 +1,13 @@
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\bin\Debug\LoadDrillFile.exe.config
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\Interop.CAMMaster.dll
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.vbproj.ResolveComReference.cache
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\bin\Debug\LoadDrillFile.exe
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\bin\Debug\LoadDrillFile.pdb
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\bin\Debug\LoadDrillFile.xml
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\bin\Debug\Interop.CAMMaster.dll
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.Resources.resources
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.vbproj.GenerateResource.Cache
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.exe
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.xml
+C:\Documents and Settings\btownsend\My Documents\Visual Studio 2008\Projects\LoadDrillFile\LoadDrillFile\obj\Debug\LoadDrillFile.pdb
